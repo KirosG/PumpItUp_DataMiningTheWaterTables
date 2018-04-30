@@ -79,9 +79,8 @@ Root(Pumpitup)
 
 
 2. To run the code:
-	If the same folder structure is maintained as mentioned above
-	Preprocessing:Since we are displays plots in this, you cannot run it in command line.
-	              So recommended to run it in Jupyter using the PumpItUpPreprocessing.ipynb file.
+	If the same folder structure is maintained as mentioned above <br>
+	- **Preprocessing:** Since we are displaying various plots in this, you cannot run it in command line. So recommended to run the file in Jupyter using the PumpItUpPreprocessing.ipynb file.
 
 	 	
 	Running Best Models:
