@@ -12,7 +12,9 @@ CS 6375 Machine Learning Project
 
 **Project Source:** <a href="https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/">DrivenData</a><br>
 
-**Challenge Name:** Pump It Up: Data Mining the Water Table
+**Challenge Name:** Pump It Up: Data Mining the Water Table <br>
+
+**Goal:** To predict the operating condition of waterpoints in Tanzania i.e. to determine whether the water pump is functional, non-functional or needs repair
 
 <hr>
 
